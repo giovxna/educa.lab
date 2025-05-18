@@ -173,7 +173,8 @@ button {
 .nav-logo a {
     position: relative;
     right: 100px;
-    color: var(--preto);
+    color: var(--primary-color);
+    font-weight: 800;
 }
 
 .nav-text>span {
