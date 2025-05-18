@@ -1,8 +1,10 @@
 # EducaLab - Imersão IA Alura + Google
 
-![Construção)](./images/educalab_banner.png)
+![educalab](https://github.com/user-attachments/assets/130f03f3-6b64-4e8b-b9bb-e260cc94ad91)
+
 
 ## 💡 A Urgência: O Desafio da Educação no Brasil
+
 
 O Brasil enfrenta desafios históricos e persistentes em seu sistema educacional. Apesar de avanços, a desigualdade no acesso à educação de qualidade, a falta de recursos em muitas regiões, a dificuldade em tornar temas complexos acessíveis e a necessidade crescente de aprendizado contínuo e personalizado são realidades que limitam o potencial de milhões de brasileiros.
 
