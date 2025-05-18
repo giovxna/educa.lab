@@ -73,6 +73,6 @@ Este README apresenta a **visão e o potencial** do EducaLab, juntamente com o c
 
 ## 🙌 Agradecimentos
 
-Aos organizadores da competição, à FIAP pela oportunidade e a todos que apoiam a inovação na educação.
+Aos organizadores da competição (Alura, Google e FIAP) e a todos que apoiam a inovação na educação.
 
 ---
