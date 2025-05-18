@@ -71,6 +71,14 @@ Este README apresenta a **visão e o potencial** do EducaLab, juntamente com o c
 4.  Siga as instruções no console para escolher um assunto, tempo e modo.
 5.  Após a primeira explicação, interaja digitando o que você gostaria de fazer em seguida (experimente pedir um quiz, um plano de estudos, mudar de assunto, etc.!).
 
+
+## 🌐 Conheça Mais no Site do EducaLab!
+Este README oferece uma visão detalhada da concepção e tecnologia por trás do EducaLab. No entanto, para uma experiência mais completa e para centralizar todas as informações essenciais sobre o projeto, incluindo o contexto da competição e como ele pode transformar a educação, criei um site dedicado!
+
+👉 [educa.lab](https://educa-lab.vercel.app)
+
+![image](https://github.com/user-attachments/assets/50003c8b-edbb-44ce-88af-97552b892fb4)
+
 ---
 
 ## 🙌 Agradecimentos
