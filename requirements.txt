@@ -1,3 +1,4 @@
-streamlit
-google-genai
-google-adk
+streamlit==1.35.0
+google-genai==0.5.2
+google-adk==0.0.6
+    
