@@ -1,7 +1,7 @@
 # EducaLab - Imersão IA Alura + Google
 
-![educalab](https://github.com/user-attachments/assets/130f03f3-6b64-4e8b-b9bb-e260cc94ad91)
 
+![educalab (1)](https://github.com/user-attachments/assets/a936540f-a123-40a2-ad18-80700a92e2f7)
 
 ## 💡 A Urgência: O Desafio da Educação no Brasil
 
