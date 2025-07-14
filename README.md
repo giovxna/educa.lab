@@ -63,8 +63,6 @@ O EducaLab tem o potencial de impactar positivamente a educação e o aprendizad
 
 ## ▶️ Como Experimentar o EducaLab
 
-Este README apresenta a **visão e o potencial** do EducaLab, juntamente com o código base de um protótipo funcional.
-
 1.  Abra o código Python (disponível neste repositório ou em um link para o Google Colab).
 2.  Certifique-se de configurar sua `GOOGLE_API_KEY` nos segredos do Google Colab.
 3.  Execute o código célula a célula (ou execute o arquivo Python se em um ambiente local).
